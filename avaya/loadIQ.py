@@ -1,5 +1,7 @@
 '''
 Load Avaya IQ report data to a MS SQL db.
+
+Nicole Donnelly 20170530
 '''
 
 import os
